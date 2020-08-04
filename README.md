@@ -27,6 +27,7 @@
 
 <br />
 <br />
+---
 
 [website]: https://afifshaikh.tech/
 [twitter]: https://twitter.com/afifshaikh48
