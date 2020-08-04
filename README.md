@@ -28,7 +28,7 @@
 
 <br /><br />
 
-<img align="left" alt="afif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Afif79&show_icons=true&hide_border=true&theme=algolia&hide=stars,issues" />
+<img align="left" alt="afif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Afif79&show_icons=true&hide_border=true&theme=algolia&hide=stars,issues" /><br />
 
 <br /><br />
 <img align="left" alt="afif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afif79&layout=compact"/>
