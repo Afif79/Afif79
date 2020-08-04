@@ -28,7 +28,7 @@
 
 <br />
 <br />
-
+[![Afif's github stats](https://github-readme-stats.vercel.app/api?username=Afif79)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://afifshaikh.tech/
 [twitter]: https://twitter.com/afifshaikh48
