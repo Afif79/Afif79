@@ -1,8 +1,8 @@
-### Hi there, I am Afif Ahmed Shaikh 👋
+## Hi there, I am Afif Ahmed Shaikh 👋
 
 <h1 align='center'><i># I am an IT Engineer!</i></h1>
 
-
+<br /><br />
 ## Connect with me
 
 [<img align="left" alt="afifshaikh.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -11,7 +11,7 @@
 [<img align="left" alt="afifshaikh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="afifshaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
+<br /><br />
 
 ## 🔧 Languages & Tools Known/Used
 
@@ -25,7 +25,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br /><br />
+<br /><br /><br />
 
 ## &#x1f4c8; GitHub Stats
 
