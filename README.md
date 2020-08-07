@@ -1,9 +1,9 @@
 ## Hi there, I am Afif Ahmed Shaikh 👋
-
-<h1 align='center'><i>I am an IT Engineer!</i></h1>
+<br /><br />
+<h1 align='center'><i>### I am an IT Engineer!</i></h1>
 
 <br /><br />
-## Connect with me
+## &#129309; Connect with me
 
 [<img align="left" alt="afifshaikh.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="afifshaikh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
