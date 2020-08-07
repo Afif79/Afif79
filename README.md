@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages and Tools Known/ Used <br /><br />
+## 🔧 Languages & Tools Known / Used <br /><br />
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -27,6 +27,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br /><br />
+
+## &#x1f4c8; GitHub Stats
 
 <img align="left" alt="afif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Afif79&show_icons=true&hide_border=true&theme=algolia&hide=stars,issues" /><br /><br /><br /><br /><br /><br /><br /><br />
 <img align="left" alt="afif's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afif79&layout=compact&theme=algolia&&hide=tsql"/>
