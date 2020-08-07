@@ -1,6 +1,6 @@
 ## Hi there, I am Afif Ahmed Shaikh 👋
 <br /><br />
-<h1 align='center'><i>### I am an IT Engineer!</i></h1>
+<h1 align='center'><i>I am an IT Engineer!</i></h1>
 
 <br /><br />
 ## &#129309; Connect with me
